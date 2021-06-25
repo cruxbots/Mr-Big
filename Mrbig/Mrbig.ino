@@ -12,7 +12,7 @@ const int in1=4;
 #include <BlynkSimpleSerialBLE.h>
 #include <SoftwareSerial.h>
 
-char auth[] = "5b4640909c9b4c818d9afdffc7a1ba08";
+char auth[] = ""; // put your own char auth, you can find it how to do it on Blynk website...... Go on don't be shy........ come on......
 
 SoftwareSerial SerialBLE(9, 10); // RX, TX
 
