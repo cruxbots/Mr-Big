@@ -15,3 +15,15 @@ I have used Blynk app for the purpose of controlling my robot. The sketch for th
 ## Schematics for this Project
 
 ![Screenshot 2021-06-27 at 03 23 04](https://user-images.githubusercontent.com/50763982/123530970-4868e700-d6f8-11eb-9ef5-18728c27e746.png)
+
+## Controller for this project should look something like this
+
+![Screenshot 2021-06-27 at 04 48 52](https://user-images.githubusercontent.com/50763982/123532186-0ee9a900-d703-11eb-9924-04abc827b828.png)
+![Screenshot 2021-06-27 at 04 49 10](https://user-images.githubusercontent.com/50763982/123532188-0f823f80-d703-11eb-8aab-c6d35719a7a9.png)
+
+## The final project looks like this
+
+![IMG-20190104-WA0002](https://user-images.githubusercontent.com/50763982/123532155-b1555c80-d702-11eb-98da-7a1f925f72fd.jpeg)
+
+https://user-images.githubusercontent.com/50763982/123532162-cdf19480-d702-11eb-9f3d-25734fa82c5a.mp4
+
